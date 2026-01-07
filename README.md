@@ -3,7 +3,4 @@ Using Tableau I visualized customer review data for British Airways to uncover g
 
 Interact in Tableau Public here: https://public.tableau.com/views/BritishAirwaysReviewproject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-OR
-
-Interact in Tableau Desktop here: **[British_Airways_Review_project.twbx](British_Airways_Review_project.twbx)**
 
